@@ -38328,6 +38328,654 @@
       "source": "A Girl on the Shore",
       "length": 572,
       "id": 6747
+    },
+    {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "source": "Confucius",
+      "length": 64,
+      "id": 6748
+    },
+    {
+      "text": "Life is really simple, but we insist on making it complicated.",
+      "source": "Confucius",
+      "length": 62,
+      "id": 6749
+    },
+    {
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "source": "Confucius",
+      "length": 77,
+      "id": 6750
+    },
+    {
+      "text": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+      "source": "Confucius",
+      "length": 166,
+      "id": 6751
+    },
+    {
+      "text": "If I am walking with two other men, each of them will serve as my teacher. I will pick out the good points of the one and imitate them, and the bad points of the other and correct them in myself.",
+      "source": "Confucius",
+      "length": 195,
+      "id": 6752
+    },
+    {
+      "text": "Success depends upon previous preparation, and without such preparation there is sure to be failure.",
+      "source": "Confucius",
+      "length": 100,
+      "id": 6753
+    },
+    {
+      "text": "It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get.",
+      "source": "Confucius",
+      "length": 172,
+      "id": 6754
+    },
+    {
+      "text": "The expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools.",
+      "source": "Confucius",
+      "length": 118,
+      "id": 6755
+    },
+    {
+      "text": "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
+      "source": "Confucius",
+      "length": 119,
+      "id": 6756
+    },
+    {
+      "text": "I was fast asleep. You stood there by the bedside, waiting to haunt by day. Someday we might meet; I won't shed a tear, for the things that you stole. Your roots go far and deep, they strangle. Frantic breathing needed to stay afloat.",
+      "source": "I Don't Speak Pt. 1 - Quiet Commotion",
+      "id": 6757,
+      "length": 234
+    },
+    {
+      "text": "Finding myself back to earth, I never wanna come back down. I'm fine here just where I am, with a full moon in my arms.",
+      "source": "A Rushing River Speaks - Quiet Commotion",
+      "id": 6758,
+      "length": 119
+    },
+    {
+      "text": "It's gonna take more than a cassette to get you out of this, because the news is all bad. Well, there is some good news. The good news is you like driving, because you can't take your foot off the gas for the next twenty-five years.",
+      "source": "Baby Driver",
+      "id": 6761,
+      "length": 232
+    },
+    {
+      "text": "Well, then, you have us all beat. Every damn song is about you. We could drive back and forth across the States forever and never run out of Baby songs.",
+      "source": "Baby Driver",
+      "id": 6762,
+      "length": 152
+    },
+    {
+      "text": "In the moment when I truly understand my enemy, understand him well enough to defeat him, then in that very moment I also love him. I think it's impossible to really understand somebody, what they want, what they believe, and not love them the way they love themselves. And then, in that very moment when I love them... I destroy them.",
+      "source": "Enders Game",
+      "id": 6763,
+      "length": 335
+    },
+    {
+      "text": "All right, I've been thinking. When life gives you lemons? Don't make lemonade. Make life take the lemons back! Get mad! I don't want your damn lemons! What am I supposed to do with these?! Demand to see life's manager! Make life rue the day it thought it could give Cave Johnson lemons! Do you know who I am?! I'm the man who's gonna burn your house down! With the lemons! I'm gonna get my engineers to invent a combustible lemon that burns your house down!",
+      "source": "Portal 2",
+      "id": 6764,
+      "length": 458
+    },
+    {
+      "text": "Well done. Here come the test results: \"You are a horrible person.\" That's what it says: a horrible person. We weren't even testing for that.",
+      "source": "Portal 2",
+      "id": 6765,
+      "length": 141
+    },
+    {
+      "text": "Okay. Look. We both said a lot of things that you're going to regret. But I think we can put our differences behind us. For science. You monster.",
+      "source": "Portal 2",
+      "id": 6766,
+      "length": 145
+    },
+    {
+      "text": "It's so hard for me to be walkin' carefree cause this music is my therapy be happy for me, and I know how it feels waking up on that bathroom floor I have nowhere to go when you push me out of the door.",
+      "source": "Let Go Or Be Dragged - Night at Delaney's",
+      "id": 6767,
+      "length": 202
+    },
+    {
+      "text": "The ability to analyze a problem involves a combination of inherent insight and experience. The former, unfortunately, cannot be learned, but depends on the individual. However, the latter is of equal importance, and can be gained with patient study.",
+      "source": "Conduction Heat Transfer",
+      "id": 6768,
+      "length": 250
+    },
+    {
+      "text": "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.",
+      "source": "Unknown",
+      "id": 6769,
+      "length": 109
+    },
+    {
+      "text": "My wife and I had lived in our house for over a dozen years at that point. Holly's family had lived in theirs even longer. We were both active families, involved in the community, with work, and with our churches. Yet, the thick woods covering the lots we each occupied along a cul-de-sac was enough of a barrier to our getting to know each other that we didn't even realize our neighbors across the street had a little girl the same age as ours. That is, until they met at the kindergarten in the elementary school six miles away.",
+      "source": "Strong Towns - A Bottom-Up Revolution to Rebuild American Prosperity",
+      "id": 6770,
+      "length": 531
+    },
+    {
+      "text": "The single quality that is common across every living creature on this planet, is fear. It’s funny, then, that as common as fear is, we so easily underestimate its power. Fear of growing close to someone, the subsequent fear of loss, fear of failure. And as more people depend on you, those fears can take on greater power. But fear itself isn’t worthy of concern, it is who we become while in its clutches. Will you be proud of that person? Will you forgive them? Will you understand why they felt the need to do the things they did? Will you even recognize them? Or will the person staring back at you be the very thing you should have feared from the start? I suppose we all find out sooner or later.",
+      "source": "RWBY",
+      "id": 6771,
+      "length": 703
+    },
+    {
+      "text": "I once told you I made more mistakes than any man, woman, or child on this planet. I wasn't exaggerating. I'm... cursed. For thousands of years I have walked the surface of Remnant; living, dying, and reincarnating in the body of a like-minded soul. The Professor Ozpin you all met was not my first form, and it clearly wasn't my last. It's... an extraordinarily strenuous process, on everyone involved.",
+      "source": "RWBY",
+      "id": 6772,
+      "length": 403
+    },
+    {
+      "text": "Being a team leader isn't just a title you carry into battle, but a badge you wear constantly. If you are not always performing at your absolute best, then what reason do you give others to follow you?",
+      "source": "RWBY",
+      "id": 6773,
+      "length": 201
+    },
+    {
+      "text": "I'll...keep this brief. You have traveled here today in search of knowledge--to hone your craft and acquire new skills. And when you have finished, you plan to dedicate your life to the protection of the people. But I look amongst you, and all I see is wasted energy, in need of purpose -- direction. You assume knowledge will free you of this, but your time at this school will prove that knowledge can only carry you so far. It is up to you to take the first step.",
+      "source": "RWBY",
+      "id": 6774,
+      "length": 466
+    },
+    {
+      "text": "It's important not to lose sight of what drives us: love, justice, reverence... but the moment you put your desires before my own... they will be lost to you. This isn't a threat, this is simply the truth. The path to your desires is only found... through me.",
+      "source": "RWBY",
+      "id": 6775,
+      "length": 259
+    },
+    {
+      "text": "You told me once that bad things just happen. You were angry when you said it, and I didn't want to listen. But you were right. Bad things do happen, all the time, every day. Which is why I'm out here, to do whatever I can, wherever I can, and hopefully do some good.",
+      "source": "RWBY",
+      "id": 6776,
+      "length": 267
+    },
+    {
+      "text": "We've all lost something, and I've seen what loss can do to people. But if we gave up every time we lost, then we'd never be able to move forward.",
+      "source": "RWBY",
+      "id": 6777,
+      "length": 146
+    },
+    {
+      "text": "You're wrong. We've done things that most people would call impossible, and I know the only reason we were able to do it is because we didn't do it alone! We had people to teach us, people to help us, we had each other. Work with us. At least I know we'll have a better chance if we try together. Please.",
+      "source": "RWBY",
+      "id": 6778,
+      "length": 304
+    },
+    {
+      "text": "Just because you don't have an idea, doesn't mean we're out of options! Oz hasn't been here to tell us what to do, but we still managed to get this far anyway. We've been in bad situations before, and we don't need an adult to come save us or tell us what to do. We just did it our way! And I say we do it our way. And if you think you can keep up with us \"kids\"... we'd be happy to have you.",
+      "source": "RWBY",
+      "id": 6779,
+      "length": 392
+    },
+    {
+      "text": "The Threads of Fate are not puppet strings. They connect life to destiny. You are fate-touched, able to see and bend the threads around you. Understand the wholeness of what you serve, champion. All the living share one experience: death. Your mother, your sister, even you. We must safeguard that beautiful moment when the soul transitions to a new purpose.",
+      "source": "The Legend of Vox Machina",
+      "id": 6780,
+      "length": 358
+    },
+    {
+      "text": "Protecting the sanctity between life and death. That is our cause. Your cause. Do you accept this charge?",
+      "source": "The Legend of Vox Machina",
+      "id": 6781,
+      "length": 105
+    },
+    {
+      "text": "I've been watching you longer than you know. Recklessly drawn to your destiny, like a flame. My beautiful champion. There is much to fear, but not death. For it gives meaning to life.",
+      "source": "The Legend of Vox Machina",
+      "id": 6782,
+      "length": 183
+    },
+    {
+      "text": "Most cities aren't. They want to believe they have a cash-flow problem because it is convenient, because insolvency is too difficult to fathom, especially when everyone else appears to be doing the exact same thing. Could everyone be wrong? Could we all be insolvent? These two questions probably cost me a total of six years in the intellectual wilderness as I clung to the notion that what I was seeing and measuring could not possibly be true, that a wisdom greater than mine had to be at work that I hadn't perceived.",
+      "source": "Strong Towns - A Bottom-Up Revolution to Rebuild American Prosperity",
+      "id": 6783,
+      "length": 521
+    },
+    {
+      "text": "It's also our path to salvation. Our cities are struggling financially, trapped in a system grinding them into decline. Working together in an intentional way, it is possible to make our places stronger financially while also improving the lives of people.",
+      "source": "Strong Towns - A Bottom-Up Revolution to Rebuild American Prosperity",
+      "id": 6784,
+      "length": 256
+    },
+    {
+      "text": "That is the essence of a Strong Towns approach, the bottom-up revolution America desperately needs.",
+      "source": "Strong Towns - A Bottom-Up Revolution to Rebuild American Prosperity",
+      "id": 6785,
+      "length": 99
+    },
+    {
+      "text": "I'm not against the automobile, but I just feel that the automobile has moved into communities too much. I feel that you can design so that the automobile is there, but still put pedestrians back again... I’d love to work on a project like that.",
+      "source": "Walt Disney",
+      "id": 6786,
+      "length": 245
+    },
+    {
+      "text": "He's smart. He's angry. Put those two things together, you stay out of the way.",
+      "source": "Mr. Robot",
+      "id": 6787,
+      "length": 79
+    },
+    {
+      "text": "Sometimes, when I get bored, I create people in my head.",
+      "source": "Mr. Robot",
+      "id": 6788,
+      "length": 56
+    },
+    {
+      "text": "You wanna know what was done? A fundraising campaign to help you while you were on the street. I warned you to go back out onto the water so that the Snells wouldn't come after you - in fact, I begged them to let you go back down onto the water, instead of them just killing you and Grace, right then and there. And when they didn't listen to me, I paid seven hundred thousand dollars to save your lives. Seven hundred thousand dollars! Every single thing I've done has been to help you. Everything I've told you to do has been to help you, and what have you done? You've done the exact opposite every single time, and what did it get you? It got you right here.",
+      "source": "Ozark",
+      "id": 6789,
+      "length": 662
+    },
+    {
+      "text": "You asked if you were bad for me. That's not it. We are bad for each other.",
+      "source": "Better Call Saul",
+      "id": 6790,
+      "length": 75
+    },
+    {
+      "text": "Their names were Clotho (Spinner), Lachesis (Allotter), and Atropos (Inflexible). Clotho spun the thread of human fate, Lachesis dispensed it, and Atropos cut the thread (thus determining the individual's moment of death). The Romans identified the Parcae, originally personifications of childbirth, with the three Greek Fates. The Roman goddesses were named Noma, Decuma, and Morta.",
+      "source": "Greek Mythology",
+      "id": 6791,
+      "length": 383
+    },
+    {
+      "text": "Alright. Let me ask you something. If the rule you followed brought you to this... Of what use was the rule?",
+      "source": "No Country for Old Men",
+      "id": 6792,
+      "length": 108
+    },
+    {
+      "text": "Hey yo, I'm just like my country: I'm young, scrappy and hungry, and I'm not throwin' away my shot.",
+      "source": "My Shot, Hamilton",
+      "length": 99,
+      "id": 6793
+    },
+    {
+      "text": "There are moments that the words don't reach. There is suffering too terrible to name.",
+      "source": "It's Quiet Uptown, Hamilton",
+      "length": 86,
+      "id": 6794
+    },
+    {
+      "text": "I know that we can win. I know that greatness lies in you.",
+      "source": "History Has Its Eyes on You, Hamilton",
+      "length": 58,
+      "id": 6795
+    },
+    {
+      "text": "I made every mistake and felt the shame rise in me. And even now I lie awake, knowing history has its eyes on me.",
+      "source": "History Has Its Eyes on You, Hamilton",
+      "length": 113,
+      "id": 6796
+    },
+    {
+      "text": "No, show me how to say no to this, I don't know how to say no to this. In my mind, I'm tryin' to go...",
+      "source": "Say No to This, Hamilton",
+      "length": 102,
+      "id": 6797
+    },
+    {
+      "text": "And when push comes to shove, I will send a fully armed battalion to remind you of my love!",
+      "source": "You'll Be Back, Hamilton",
+      "length": 91,
+      "id": 6798
+    },
+    {
+      "text": "You're on your own. Awesome, wow! Do you have a clue what happens now?",
+      "source": "What Comes Next, Hamilton",
+      "length": 70,
+      "id": 6799
+    },
+    {
+      "text": "Look around, look around at how lucky we are to be alive right now.",
+      "source": "That Would Be Enough, Hamilton",
+      "length": 67,
+      "id": 6800
+    },
+    {
+      "text": "The fact that you're alive is a miracle. Just stay alive, that would be enough.",
+      "source": "That Would Be Enough, Hamilton",
+      "length": 79,
+      "id": 6801
+    },
+    {
+      "text": "Have your seconds meet face to face. Negotiate a peace, or negotiate a time and place.",
+      "source": "Ten Duel Commandments, Hamilton",
+      "length": 86,
+      "id": 6802
+    },
+    {
+      "text": "The challenge: demand satisfaction. If they apologize, no need for further action.",
+      "source": "Ten Duel Commandments, Hamilton",
+      "length": 82,
+      "id": 6803
+    },
+    {
+      "text": "Time to get some pistols and a doctor on site. You pay him in advance, you treat him with civility. You have him turn around, so he can have deniability.",
+      "source": "Ten Duel Commandments, Hamilton",
+      "length": 153,
+      "id": 6804
+    },
+    {
+      "text": "If it takes fighting a war for us to meet, it will have been worth it.",
+      "source": "Helpless, Hamilton",
+      "length": 70,
+      "id": 6805
+    },
+    {
+      "text": "All I have is my honor, a tolerance for pain, a couple of college credits, and my top-notch brain.",
+      "source": "Helpless, Hamilton",
+      "length": 98,
+      "id": 6806
+    },
+    {
+      "text": "I remember that night, I just might regret that night for the rest of my days.",
+      "source": "Satisfied, Hamilton",
+      "length": 78,
+      "id": 6807
+    },
+    {
+      "text": "I'll give him this, his financial system is a work of genius. I couldn't undo it if I tried. And I've tried.",
+      "source": "Who Lives, Who Dies, Who Tells Your Story, Hamilton",
+      "length": 108,
+      "id": 6808
+    },
+    {
+      "text": "He took our country from bankruptcy to prosperity. I hate to admit it, but he doesn't get enough credit for all the credit he gave us.",
+      "source": "Who Lives, Who Dies, Who Tells Your Story, Hamilton",
+      "length": 134,
+      "id": 6809
+    },
+    {
+      "text": "And when you're gone, who remembers your name? Who keeps your flame? Who tells your story?",
+      "source": "Who Lives, Who Dies, Who Tells Your Story, Hamilton",
+      "length": 90,
+      "id": 6810
+    },
+    {
+      "text": "You have no control who lives, who dies, who tells your story?",
+      "source": "Who Lives, Who Dies, Who Tells Your Story, Hamilton",
+      "length": 62,
+      "id": 6811
+    },
+    {
+      "text": "I am slow to anger but I toe the line, as I reckon with the effects of your life on mine.",
+      "source": "The Obedient Servant, Hamilton",
+      "length": 89,
+      "id": 6812
+    },
+    {
+      "text": "What is a legacy? It's planting seeds in a garden you never get to see.",
+      "source": "The World Was Wide Enough, Hamilton",
+      "length": 71,
+      "id": 6813
+    },
+    {
+      "text": "History obliterates in every picture it paints. It paints me and all my mistakes.",
+      "source": "The World Was Wide Enough, Hamilton",
+      "length": 81,
+      "id": 6814
+    },
+    {
+      "text": "You are a very special person. There is only one like you in the whole world. There's never been anyone exactly like you before, and there will never be again. Only you. And people can like you exactly as you are.",
+      "source": "Fred Rogers",
+      "length": 213,
+      "id": 6815
+    },
+    {
+      "text": "I'm not sure whose twisted idea it was to put hundreds of adolescents in underfunded schools run by people whose dreams were crushed years ago, but I admire the sadism.",
+      "source": "Wednesday",
+      "length": 168,
+      "id": 6817
+    },
+    {
+      "text": "Teach them our ways so they do not suffer the shame of being useless.",
+      "source": "Avatar: The Way of Water",
+      "length": 69,
+      "id": 6818
+    },
+    {
+      "text": "A true leader has the confidence to stand alone, the courage to make tough decisions, and the compassion to listen to the needs of others. He does not set out to be a leader, but becomes one by the equality of his actions and the integrity of his intent.",
+      "source": "The 7 Habits of Highly Effective People",
+      "length": 254,
+      "id": 6819
+    },
+    {
+      "text": "Life is a journey, not a destination. The key to success is to enjoy every step along the way. Embrace the struggles, learn from the failures, and appreciate the victories. The destination may be important, but it's the journey that truly shapes us.",
+      "source": "The Power of Positive Thinking",
+      "length": 249,
+      "id": 6820
+    },
+    {
+      "text": "Life is not a problem to be solved, but a reality to be experienced. We do not remember days, we remember moments. Life is like riding a bicycle. To keep your balance, you must keep moving. Don't cry because it's over, smile because it happened. In three words I can sum up everything I've learned about life: it goes on.",
+      "source": "Søren Kierkegaard",
+      "length": 321,
+      "id": 6821
+    },
+    {
+      "text": "I think the saddest people always try their hardest to make people happy because they know what it's like to feel absolutely worthless and they don't want anyone else to feel like that.",
+      "source": "The Perks of Being a Wallflower",
+      "length": 185,
+      "id": 6822
+    },
+    {
+      "text": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+      "source": "Steve Jobs",
+      "length": 174,
+      "id": 6823
+    },
+    {
+      "text": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood.",
+      "source": "Theodore Roosevolt",
+      "length": 254,
+      "id": 6824
+    },
+    {
+      "text": "It is better to be hated for what you are than to be loved for what you are not.",
+      "source": "Andrè Gide",
+      "length": 80,
+      "id": 6825
+    },
+    {
+      "text": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.",
+      "source": "Harry Potter and the Prisoner of Azkaban",
+      "length": 97,
+      "id": 6826
+    },
+    {
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall. This means recognizing that failure and setbacks are a natural part of the journey to success, and using them as opportunities to learn and grow. It means finding the strength and resilience to get back up and keep going, even when things seem impossible. It means believing in ourselves and our abilities, and never giving up on our dreams.",
+      "source": "Nelson Mandela",
+      "length": 431,
+      "id": 6827
+    },
+    {
+      "text": "The best way to find yourself is to lose yourself in the service of others.",
+      "source": "Mahatma Gandhi",
+      "length": 75,
+      "id": 6828
+    },
+    {
+      "text": "We do not need magic to transform our world. We carry all the power we need inside ourselves already.",
+      "source": "J.K. Rowling",
+      "length": 101,
+      "id": 6829
+    },
+    {
+      "text": "We cannot solve our problems with the same thinking we used when we created them.",
+      "source": "Albert Einstein",
+      "length": 81,
+      "id": 6830
+    },
+    {
+      "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "source": "Edmund Burke",
+      "length": 79,
+      "id": 6831
+    },
+    {
+      "text": "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+      "source": "Christian D. Larson",
+      "length": 116,
+      "id": 6832
+    },
+    {
+      "text": "The two most important days in your life are the day you are born and the day you find out why.",
+      "source": "Mark Twain",
+      "length": 95,
+      "id": 6833
+    },
+    {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "source": "Ralph Waldo Emerson",
+      "length": 110,
+      "id": 6834
+    },
+    {
+      "text": "I am not afraid of storms, for I am learning how to sail my ship.",
+      "source": "Louisa May Alcott (Little Women)",
+      "length": 65,
+      "id": 6835
+    },
+    {
+      "text": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+      "source": "Christopher Columbus",
+      "length": 84,
+      "id": 6836
+    },
+    {
+      "text": "It is not easy to find happiness in ourselves, and it is not possible to find it elsewhere. The only way to true happiness is to learn to accept and love ourselves for who we are, flaws and all. This means embracing our strengths as well as our weaknesses, and finding joy in the journey of self-discovery and self-improvement. It may not be an easy path, but it is one that is worth taking.",
+      "source": "Unknown",
+      "length": 391,
+      "id": 6837
+    },
+    {
+      "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well. This means finding a sense of purpose and meaning in our lives, and striving to make a positive impact in the world around us. It means being kind and caring towards others, and using our unique talents and abilities to create something that will endure beyond our lifetime.",
+      "source": "Ralph Waldo Emerson",
+      "length": 440,
+      "id": 6838
+    },
+    {
+      "text": "Life is not about waiting for the storm to pass, it is about learning to dance in the rain. This means embracing the challenges and difficulties that come our way, and finding the strength and resilience to overcome them. It means learning to see the beauty and joy in every moment, even when things seem bleak or uncertain. It means living fully in the present, and finding the courage to take risks and pursue our dreams.",
+      "source": "Unknown",
+      "length": 423,
+      "id": 6839
+    },
+    {
+      "text": "The best way to predict your future is to create it. This means taking control of our lives and our destinies, and actively shaping the course of our future. It means setting goals and working towards them with determination and persistence, even when the path is difficult or uncertain. It means being willing to take risks and try new things, and never giving up in the face of adversity or setbacks.",
+      "source": "Abraham Lincoln",
+      "length": 402,
+      "id": 6840
+    },
+    {
+      "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful. This means finding joy and fulfillment in our work and our passions, and pursuing them with dedication and enthusiasm. It means recognizing that success is not just about wealth or status, but about living a life that is meaningful and rewarding on a personal level.",
+      "source": "Albert Schweitzer",
+      "length": 392,
+      "id": 6841
+    },
+    {
+      "text": "Believe you can and you're halfway there.",
+      "source": "Theodore Roosevelt",
+      "length": 41,
+      "id": 6842
+    },
+    {
+      "text": "Happiness is not something ready-made. It comes from your own actions.",
+      "source": "Dalai Lama",
+      "length": 70,
+      "id": 6843
+    },
+    {
+      "text": "You can't build a reputation on what you are going to do.",
+      "source": "Henry Ford",
+      "length": 57,
+      "id": 6844
+    },
+    {
+      "text": "The most beautiful thing we can experience is the mysterious. It is the source of all true art and all science. He to whom this emotion is a stranger, who can no longer pause to wonder and stand rapt in awe, is as good as dead: his eyes are closed.",
+      "source": "Albert Einstein",
+      "length": 248,
+      "id": 6845
+    },
+    {
+      "text": "I think the saddest people always try their hardest to make people happy because they know what it's like to feel absolutely worthless and they don't want anyone else to feel like that.",
+      "source": "Robin Williams",
+      "length": 185,
+      "id": 6846
+    },
+    {
+      "text": "I have no special talents. I am only passionately curious.",
+      "source": "Albert Einstein",
+      "length": 58,
+      "id": 6847
+    },
+    {
+      "text": "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.",
+      "source": "Theodore Roosevelt",
+      "length": 752,
+      "id": 6848
+    },
+    {
+      "text": "Our birthdays are feathers in the broad wing of time.",
+      "source": "Jean Paul",
+      "length": 53,
+      "id": 6849
+    },
+    {
+      "text": "Life is a journey, not a destination,\" whispered the old traveler as he sat by the fire. He closed his eyes and reminisced about the days when he was young and full of wonder. \"The world is vast and full of mysteries waiting to be discovered. And yet, we are often so consumed by our own trivial problems that we fail to appreciate the beauty that surrounds us.\" He took a sip of his tea and continued, \"But there is hope. For every sunset, there is a sunrise. For every heartbreak, there is a chance to love again. We must embrace every moment and cherish every memory, for they are the building blocks of our journey.\" The young man listening intently, thanked the traveler for his wise words and promised to live his life to the fullest.",
+      "source": "ChatGPT",
+      "length": 740,
+      "id": 6850
+    },
+    {
+      "text": "We are all in the gutter, but some of us are looking at the stars.",
+      "source": "Oscar Wilde",
+      "length": 66,
+      "id": 6851
+    },
+    {
+      "text": "Freedom is not worth having if it does not connote freedom to err. It passes my comprehension how human beings, be they ever so experienced and able, can delight in depriving other human beings of that precious right.",
+      "source": "The Autobiography of Mahatma Gandhi",
+      "length": 217,
+      "id": 6852
+    },
+    {
+      "text": "The only way to deal with fear is to face it head on. You cannot defeat what you cannot see.",
+      "source": "The Girl Who Kicked the Hornet's Nest",
+      "length": 92,
+      "id": 6853
+    },
+    {
+      "text": "Life is a book and there are a thousand pages I have not yet read.",
+      "source": "Clockwork Princess",
+      "length": 66,
+      "id": 6854
+    },
+    {
+      "text": "Love cannot be explained. It can only be experienced. Love cannot be explained, yet it explains all.",
+      "source": "The Forty Rules of Love",
+      "length": 100,
+      "id": 6855
+    },
+    {
+      "text": "If we are the same person before and after we loved, that means we haven't loved enough.",
+      "source": "The Forty Rules of Love",
+      "length": 88,
+      "id": 6856
+    },
+    {
+      "text": "Even if a single day in your life is the same as the day before, it surely is a pity. At every moment and with each new breath, one should be renewed and renewed again. There is only one way to be born into a new life: to die before death.",
+      "source": "The Forty Rules of Love",
+      "length": 239,
+      "id": 6857
+    },
+    {
+      "text": "I'm sorry. I'm sorry. I'm sorry. It's all to save Eldia and the Island. But not only because of that. The reality outside the walls was nothing like the world I had dreamed of. It was nothing like the world I had seen in Armin's book. When I learned that humanity outside the walls survived... I was so disappointed. I wished... for everything to be wiped away.",
+      "source": "Eren - Attack on Titan",
+      "length": 361,
+      "id": 6858
     }
   ]
 }
